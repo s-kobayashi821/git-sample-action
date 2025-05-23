@@ -23,6 +23,4 @@ public class ExerciseMath
         }
         return num;
     }
-
-//    public static int
 }
