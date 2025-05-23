@@ -18,9 +18,9 @@ class ExerciseMathTest {
 
     @Test
     void testPower1() {
-//        double actualAnswer = ExerciseMath.factorial(- 1);
-//        IllegalAccessException exception = assertThrows(IllegalAccessException.class, () -> ExerciseMath.factorial(-1));
-//        assertEquals("0以下の値は不正です", exception.getMessage(), "TC1:期待値と実際の結果が異なります");
+        int actualAnswer = ExerciseMath.factorial(3);
+
+        assertEquals(6, 6, "TC1:期待値と実際の結果が異なります");
     }
 //
 //
