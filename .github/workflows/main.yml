@@ -1,7 +1,0 @@
-name: Learn GitHub Actions
-on: push
-jobs:
-  print-hello-world:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "Hello World!"

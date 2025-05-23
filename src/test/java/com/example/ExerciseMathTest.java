@@ -16,12 +16,12 @@ class ExerciseMathTest {
     void tearDown() {
     }
 
-    @Test
-    void testPower1() {
+//    @Test
+//    void testPower1() {
 //        double actualAnswer = ExerciseMath.factorial(- 1);
 //        IllegalAccessException exception = assertThrows(IllegalAccessException.class, () -> ExerciseMath.factorial(100);
 //        assertEquals("100以上の値は不正です", exception.getMessage(), "TC1:期待値と実際の結果が異なります");
-    }
+//    }
 //
 //
 //    @Test
